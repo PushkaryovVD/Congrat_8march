@@ -48,7 +48,7 @@ document.addEventListener("DOMContentLoaded", () => {
 	});
 
 	const text1 =
-			"Переведи на английский Желаем вам чудесных дней,^500 наполненных радостными событиями, красивыми словами, любовью и душевностью.^1000 Пусть ваши желания исполняются всё чаще, близкие окружают вас теплом и нежностью,^400 заботой и безграничным вниманием.^600 Счастья Вам и пусть оно не заканчивается! И с праздником весны прекрасным!We wish you wonderful days,^500 filled with joyful moments, beautiful words, love, and sincerity.^1000 May your wishes come true more often, and may your loved ones surround you with warmth and tenderness,^400 care, and boundless attention.^600 Wishing you happiness that never ends! And a wonderful Spring holiday to you!",
+			"Желаем вам чудесных дней,^500 наполненных радостными событиями, красивыми словами, любовью и душевностью.^1000 Пусть ваши желания исполняются всё чаще, близкие окружают вас теплом и нежностью,^400 заботой и безграничным вниманием.^600 Счастья Вам и пусть оно не заканчивается! И с праздником весны прекрасным!We wish you wonderful days,^500 filled with joyful moments, beautiful words, love, and sincerity.^1000 May your wishes come true more often, and may your loved ones surround you with warmth and tenderness,^400 care, and boundless attention.^600 Wishing you happiness that never ends! And a wonderful Spring holiday to you!",
 		text2 =
 			"Пускай красочными будут ваши дни, а в вашей жизни случаются самые настоящие и невероятные чудеса. Желаю теплой, солнечной и радостной весны, чтобы вы всегда были согреты ласковым словом, делом и любовью родных людей. Желаю благополучия, чтобы в вашем доме и сердцах всегда был покой, уют и счастье. С 8 Марта!";
 
