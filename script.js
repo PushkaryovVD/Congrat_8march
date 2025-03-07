@@ -64,9 +64,9 @@ document.addEventListener("DOMContentLoaded", () => {
 		letterCover.classList.toggle("opened");
 		secondSound.play();
 		if (letterCover.classList.contains("opened")) {
-			letterCover.title = "Close";
+			letterCover.title = "Закрыть";
 		} else {
-			letterCover.title = "Open";
+			letterCover.title = "Открыть";
 		}
 
 		leftSideOfLetter.classList.toggle("opened");
